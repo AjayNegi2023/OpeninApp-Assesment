@@ -17,7 +17,6 @@ const Items = () => {
   };
 
   const textColor = theme === "dark" ? "#6E6E6E" : "#030229";
-  const iconColor = theme === "dark" ? "#FFFFFF" : "#000000"; 
   const uploadColor = "#605BFF";
 
   return (
